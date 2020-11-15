@@ -13,3 +13,4 @@ hw7_2 MNIST support vecotr machine https://github.com/chanhokim1/2020_cphys2/blo
 hw7_3 MNIST decision or randomtree https://github.com/chanhokim1/2020_cphys2/blob/main/hw7_3.ipynb \
 hw8_1 MNIST 손글씨 https://github.com/chanhokim1/2020_cphys2/blob/main/hw8_1.ipynb \
 hw8_2 MNIST fashion data https://github.com/chanhokim1/2020_cphys2/blob/main/hw8_2.ipynb \
+hw9 MNIST MLP-CNN 비교 https://github.com/chanhokim1/2020_cphys2/blob/main/hw9.ipynb \
