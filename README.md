@@ -15,3 +15,5 @@ hw8_1 MNIST 손글씨 https://github.com/chanhokim1/2020_cphys2/blob/main/hw8_1.
 hw8_2 MNIST fashion data https://github.com/chanhokim1/2020_cphys2/blob/main/hw8_2.ipynb \
 hw9 MNIST MLP-CNN 비교 https://github.com/chanhokim1/2020_cphys2/blob/main/hw9.ipynb \
 hw10 IMDB RNN, LSTM으로 분류 https://github.com/chanhokim1/2020_cphys2/blob/main/hw10.ipynb
+.\
+finla project, wine dataset https://github.com/chanhokim1/2020_cphys2/blob/main/final.ipynb
